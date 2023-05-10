@@ -2,7 +2,7 @@ import os
   
 
 def main():
-    ouput = jsonify({"message":"main is invalid"})    
+    ouput = "message: main is invalid"    
     print(ouput)
 
 """
